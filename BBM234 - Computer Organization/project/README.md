@@ -1,1 +1,1 @@
-Assembly codes is written for MIPS architecture
+Assembly codes are written for MIPS architecture
