@@ -1,4 +1,4 @@
-﻿2001	archery	170
+2001	archery	170
 2002	badminton	408
 2003	basketball	476
 2004	billiards	102
